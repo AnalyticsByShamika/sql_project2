@@ -1,6 +1,6 @@
 # sql_project2
 
-1. To retrieve sales tax collection from state and tax type that have state IDs:
+1. To retrieve sales tax collection from state and tax type that have state IDs.
 
 
 2. Combining sales tax and tax type data
@@ -11,19 +11,19 @@
 4. Tax Types without sales tax data
 
 
-5. Finding the total sales tax collection by state and year
+5. Find the total sales tax collection by state and year
 
 
-6. Trying to combine sales tax and tax type without removing dupes ("duplicates")
-S
-
-7. Trying to find sales tax with state IDs, that include states without sales tax 
+6. Combine sales tax and tax type without removing dupes ("duplicates")
 
 
-8. Trying to find Tax types with sales tax, that include tax types without data
+7. Find sales tax with state IDs, that include states without sales tax 
 
 
-9. Trying to rank states by sales tax collections?
+8. Find Tax types with sales tax, that include tax types without data
 
 
-10. Trying to find Tax Types without sales tax data and calculate the total sales tax collected for each tax type?
+9. Rank states by sales tax collections.
+
+
+10. Find Tax Types without sales tax data and calculate the total sales tax collected for each tax type?
